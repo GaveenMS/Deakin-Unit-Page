@@ -15,17 +15,23 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+<<<<<<< HEAD
 th, td {
     padding: 8px;
     text-align: left;
     border-bottom: 1px solid #ddd;
     font-family: Arial
 }
+=======
+>>>>>>> 9663f53d5e5c91e6536e7f4f4f6c67f0121be44c
 div {
     background-color: darkcyan;
     text-align: right;
 }
+<<<<<<< HEAD
 
 tr:nth-child(odd) {background-color: #f2f2f2;}
+=======
+>>>>>>> 9663f53d5e5c91e6536e7f4f4f6c67f0121be44c
 
 
